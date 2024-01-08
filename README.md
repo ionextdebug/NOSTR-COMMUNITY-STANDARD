@@ -1,4 +1,10 @@
-This document describe the NIPs in a more formal way, being inspired by C++ Standard for Compiler vendors. You can contribute adding information about NIPs, and improving the clauses.
+The NOSTR Community Standard is a standard created for community, with MIT license, to introduce a more formal and dynamic way to transform the NIPs in a set of human-readable and software developer set of rules.
+
+You can contribute adding clauses, warnings, and guides.
+
+This is inspired in C++ ISO Standard and ECMA documents for EcmaScript (JavaScript).
+
+The output value of your contribution is a document to software developers easy understand the protocol and implement new tools for the community according to the community standard.
 
 ## GLOSSARY
 
