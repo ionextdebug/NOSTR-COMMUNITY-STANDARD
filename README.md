@@ -25,6 +25,20 @@ All the clauses need to be based on NIPs.
 
 **Component**: the same as "user", "client", or "relay" (or combination of them).
 
+## HOW TO CONTRIBUTE
+
+You can contribute creating pull requests after changed this document.
+
+**WARN**: Add new clauses or new subclauses, don't try to change the sequence of main/head clauses. Maintaining the order of the clauses' number is important to future references, e.g., debugging tools.
+
+## HOW TO USE (EXAMPLE)
+
+You can do references to the main/head clauses, not for subclauses, following the pattern `/NIP-[0-9]+\-CLAUSE-[0-9]+/`, e.g.: `ERROR NIP-100-CLAUSE-11` or `ERROR NIP-01-CLAUSE-11`.
+
+**WARN**: You can use any pattern to do your references, but only referecing to clauses is safe, referecing to subclauses is not safe. Subclauses' number can be incremented and eventually changed.
+
+**INFO**: In near future we will has `tag` to identify each clause or subclause violation, then you will can refer using the stable tags.
+
 
 # THE NOSTR COMMUNITY STANDARD
 
