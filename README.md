@@ -94,7 +94,7 @@ CLAUSE 9.2. “REQ” is used to request or subscribe to events.
 CLAUSE 9.3. “CLOSE” is used to unsubscribe from events.
 
 
-***CLAUSE 10.*** The NIP-02 defines four types of relay messages: “EVENT”, “OK”, “EOSE”, “CLOSED”, and “NOTICE”.
+***CLAUSE 10.*** The NIP-01 defines four types of relay messages: “EVENT”, “OK”, “EOSE”, “CLOSED”, and “NOTICE”.
 ***WARN***: consult the NIP-01.
 
 CLAUSE 10.1. “EVENT” is used to send request events to the clients.
