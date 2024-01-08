@@ -2,7 +2,7 @@ The NOSTR Community Standard is a standard created for community, with MIT licen
 
 You can contribute adding clauses, warnings, and guides.
 
-This is inspired in C++ ISO Standard and ECMA documents for EcmaScript (JavaScript).
+This is inspired in C++ ISO Standard and ECMA specifications for EcmaScript (JavaScript).
 
 The output value of your contribution is a document to software developers easy understand the protocol and implement new tools for the community according to the community standard.
 
