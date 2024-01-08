@@ -14,6 +14,8 @@ This document describe the NIPs in a more formal way, being inspired by C++ Stan
 
 **Ill-formed**: an implementation that don't follows the standard.
 
+**Component**: the same as "user", "client", or "relay" (or combination of them).
+
 
 # THE NOSTR COMMUNITY STANDARD
 
