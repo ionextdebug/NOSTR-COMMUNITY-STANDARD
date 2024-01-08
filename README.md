@@ -19,6 +19,8 @@ All the clauses need to be based on NIPs.
 
 **GUIDE**: an external link of a free tutorial, guide, book, or practical content teaching how to implement the clause.
 
+**ERROR_TAG**: a stable string naming a type of violation of one specific clause or subclause. Please, increment new `ERROR_TAG`s in the document "error_tags.json".
+
 **Well-formed**: an implementation that follows the standard.
 
 **Ill-formed**: an implementation that don't follows the standard.
