@@ -27,14 +27,14 @@ This document describe the NIPs in a more formal way, being inspired by C++ Stan
 
 > “This NIP defines the basic protocol that should be implemented by everybody.”
 
+***CLAUSE 1***: A component that does not implement the mandatory NIP-01, or respect the requirements to implement an optional NIP, is classified as an ill-formed component.
 
-***CLAUSE 1***. A well-formed component (relay, client, user) that implements an optional NIP needs to implement it, if implemented any, according to the requirements of each optional NIP.
 
 
 > “New NIPs may add new optional (or mandatory) fields and messages and features to the structures and flows described here.”
 
 
-***CLAUSE 2***: A component that does not implement the mandatory NIP-01, or respect the requirements to implement an optional NIP, is classified as an ill-formed component.
+***CLAUSE 2***. A well-formed component (relay, client, user) that implements an optional NIP needs to implement it, if implemented any, according to the requirements of each optional NIP.
 
 
 > “Each user has a keypair.”
