@@ -1,6 +1,6 @@
 {
-  "UNDEFINED_BAHAVIOR": {
+  "UNDEFINED_BEHAVIOR": {
     "CLAUSE": "NO_CLAUSE",
-    "DESCRIPTION": "This exception is not defined in the NOSTR Community Standard"
+    "DESCRIPTION": "This violation of clause is not defined in the NOSTR Community Standard."
   },
 }
