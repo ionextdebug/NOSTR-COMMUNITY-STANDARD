@@ -1,4 +1,4 @@
-The NOSTR Community Standard is a standard created for community, with MIT license, to introduce a more formal and dynamic way to transform the NIPs in a set of human-readable and software developer set of rules.
+The NOSTR Community Standard is a standard created for community, with MIT license, to introduce a more formal and dynamic way to transform the NIPs in a set of human-readable and software developer friendly set of rules.
 
 You can contribute adding clauses, warnings, and guides.
 
