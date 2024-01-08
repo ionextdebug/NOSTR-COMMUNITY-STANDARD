@@ -1,0 +1,6 @@
+{
+  "UNDEFINED_BAHAVIOR": {
+    "CLAUSE": "NO_CLAUSE",
+    "DESCRIPTION": "This exception is not defined in the NOSTR Community Standard"
+  },
+}
