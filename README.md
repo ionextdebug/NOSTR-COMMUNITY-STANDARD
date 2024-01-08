@@ -58,10 +58,12 @@ This document describe the NIPs in a more formal way, being inspired by C++ Stan
 > “which has the following format on the wire:”
 
 
-***CLAUSE 6***. The type event is a key-value dictionary with the following properties: "id", "pubkey", "created_at", "kind", "tags", "content", and "sig". Each property has a defined steady format (consult the NIP-01).
+***CLAUSE 6***. The type event is a key-value dictionary with the following properties: "id", "pubkey", "created_at", "kind", "tags", "content", and "sig". Each property has a defined steady format.
 
+***WARN***: consult the NIP-01.
 
 CLAUSE 6.1. The property event.id is generated according to the NIP-01 specification.
+
 ***WARN***: consult the NIP-01.
 
 CLAUSE 6.2. The property event.tags is a multi-dimensional array (array of arrays) with N optional subarrays. Each optional subarray has two required elements: “name” (also called “key”), and “value”; and can have context-based optional elements.
@@ -70,6 +72,7 @@ CLAUSE 6.2. The property event.tags is a multi-dimensional array (array of array
 
 
 ***CLAUSE 7.*** The NIP-01 defines three standard tag types. The components to be well-formed need to support these three tag types according to the specifications in NIP-01. These tag types are: “e”, “p”, “a”.
+
 ***WARN***: consult the NIP-01.
 
 > “Kinds specify how clients should interpret the meaning of each event and the other fields of each event”
@@ -79,12 +82,15 @@ CLAUSE 6.2. The property event.tags is a multi-dimensional array (array of array
 
 
 CLAUSE 8.1. The NIP-01 defines two standard kinds, the “0” (metadata) and the “1” (text note).
+
 ***WARN***: consult the NIP-01.
 
 CLAUSE 8.2. The range [1000, 40000) needs to be used according specified in NIP-01.
+
 ***WARN***: consult the NIP-01.
 
 ***CLAUSE 9.*** The NIP-01 defines three types of client messages: “EVENT”, “REQ”, and “CLOSE”.
+
 ***WARN***: consult the NIP-01.
 
 CLAUSE 9.1. “EVENT” is used to publish events.
@@ -95,6 +101,7 @@ CLAUSE 9.3. “CLOSE” is used to unsubscribe from events.
 
 
 ***CLAUSE 10.*** The NIP-01 defines four types of relay messages: “EVENT”, “OK”, “EOSE”, “CLOSED”, and “NOTICE”.
+
 ***WARN***: consult the NIP-01.
 
 CLAUSE 10.1. “EVENT” is used to send request events to the clients.
