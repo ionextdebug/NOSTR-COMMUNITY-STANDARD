@@ -1,3 +1,11 @@
+# WARN | MOVED TO
+
+To better organize the standard I moved this repository to new address below, please follow and collaborate in the new repository:
+
+https://github.com/Notes-Machine/NOSTR-Community-Standard
+
+-----
+
 The NOSTR Community Standard is a standard created for community, with MIT license, to introduce a more formal and dynamic way to transform the NIPs in a set of human-readable and software developer friendly set of rules.
 
 You can contribute adding clauses, warnings, and guides.
