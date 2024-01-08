@@ -7,7 +7,7 @@ This is inspired in C++ ISO Standard and ECMA documents for EcmaScript (JavaScri
 The output value of your contribution is a document to software developers easy understand the protocol and implement new tools for the community according to the community standard.
 
 
-All the clauses need o be based on NIPs.
+All the clauses need to be based on NIPs.
 
 ## GLOSSARY
 
