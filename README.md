@@ -31,7 +31,7 @@ All the clauses need to be based on NIPs.
 
 You can contribute creating pull requests after changed this document.
 
-**WARN**: Add new clauses or new subclauses, don't try to change the sequence of main/head clauses. Maintaining the order of the clauses' number is important to future references, e.g., debugging tools.
+**WARN**: Add new clauses or new subclauses, don't try to change the sequence of main/head clauses. Maintaining the order of the clauses' number is important to future references, e.g., debugging tools. We need to work on stable tags to referencing clauses' violations.
 
 ## HOW TO USE (EXAMPLE)
 
